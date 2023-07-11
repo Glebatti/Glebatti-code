@@ -1,0 +1,5 @@
+"C:\Program Files\Python310\python.exe" "C:\avs\Utilities\Template_generator\For DWNT From XML\generate_report.py" %.tex %.gen.tex "C:\avs\source\tgen\ts_reports\Main_Report[14 34 58][08.04.2022].xml" Additional
+
+
+pdflatex -interaction=nonstopmode -output-directory="C:\avs\source\tgen\out"
+-aux-directory= -job-name=% %.gen.tex

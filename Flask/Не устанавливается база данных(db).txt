@@ -1,0 +1,5 @@
+В terminal python прописать:
+->ipython
+->from app import db
+->db.create_all()
+Возникает ошибка,не знаю как исправить.

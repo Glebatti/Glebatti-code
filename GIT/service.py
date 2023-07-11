@@ -1,0 +1,4 @@
+OFFLINE_STATE = 2
+dd = 4
+
+print(OFFLINE_STATE)
